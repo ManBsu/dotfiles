@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bsu_cata@yahoo.com
+	name = catalin man
